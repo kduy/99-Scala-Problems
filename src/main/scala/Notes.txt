@@ -1,0 +1,6 @@
+
+
+
+
+P12: List.make(3, 'a)   >>>> List('a,'a,'a)
+
