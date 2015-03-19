@@ -4,3 +4,4 @@
 
 P12: List.make(3, 'a)   >>>> List('a,'a,'a)
 
+P13: list span (predicate)  >>>> (List(from beginning until element not match predicate) , List(the rest))
